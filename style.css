@@ -1,0 +1,20 @@
+#footer
+{
+    height: 20px;
+    background-color: white;
+}
+
+#alumniList1
+{
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+#alumniList2
+{
+    background: linear-gradient(#ff8800 0%, #ea00ff 100%);
+}
+
+#alumniList3
+{
+    background: linear-gradient(red 0%, cyan 100%);
+}
